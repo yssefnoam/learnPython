@@ -10,4 +10,5 @@ def main():
         print("Young")
     else:
         print("Out of range")
+    print("End")
 main()
