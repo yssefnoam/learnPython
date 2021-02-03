@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import datetime
 def main():
     bod = input("Enter your birth day: ")
