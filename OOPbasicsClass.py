@@ -15,4 +15,5 @@ def main():
     yoCar.SetOwner("ynoam")
     yoCar.GetOwner()
 
-main()
+if __name__ == "__main__":
+    main()
