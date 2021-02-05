@@ -1,3 +1,4 @@
+#!$(test)
 def display():
     print("Welcome from function")
 def sumNumbers(n1, n2):
