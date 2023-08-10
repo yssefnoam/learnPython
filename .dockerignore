@@ -1,0 +1,11 @@
+# Ignore virtual environments
+venv/
+env/
+env.bak/
+ENV/
+env/
+.venv/
+.eggs/
+lib/
+lib64/
+include/
